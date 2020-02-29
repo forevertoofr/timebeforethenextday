@@ -1,0 +1,36 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 36px;
+  margin-top: 2px;
+}
+
+div {
+  color: white;
+}
+
+#countdown {
+  text-align: center;
+  font-size: 50px;
+  margin-top: 0px;
+}
+
+#message {
+  color: white;
+  text-align: center;
+  font-size: 24px;
+}
+
+.box {
+  border-radius:10px;
+  border: 7px solid black;
+  background: white;
+}
